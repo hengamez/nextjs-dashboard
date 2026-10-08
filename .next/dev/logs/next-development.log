@@ -1,0 +1,497 @@
+[00:00:00.960] Server  LOG      ✓ Ready in 733ms
+[00:00:03.114] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:09.446] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:11.343] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:03:25.439] Server  LOG      ✓ Compiled in 158ms
+[00:03:28.640] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:03:37.880] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:03:44.339] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:09:29.628] Server  LOG      ✓ Compiled in 191ms
+[00:09:31.702] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:09:33.207] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:09:39.733] Browser ERROR   ./app/page.tsx:14:7
+Parsing ecmascript source code failed
+  12 |         {/* <AcmeLogo /> */}
+  13 |       </div>
+> 14 |       <div className="mt-4 flex grow flex-col gap-4 md:flex-row">
+     |       ^
+  15 |         <div className="flex flex-col justify-center gap-6 rounded-lg bg-gray-50 px-6 py-10 md:w-2/5 md:px-20">
+  16 |         <div
+  17 |         className="relative w-0 h-0 border-l-[15px] border-r-[15px] border-b-[26px] border-l-transparent border-r-transparent border-b-black"
+
+Expression expected
+[00:20:57.970] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:22:05.272] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:26:23.980] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:28:11.541] Server  LOG      ✓ Compiled in 157ms
+[00:29:50.463] Server  LOG      ✓ Compiled in 153ms
+[00:34:43.176] Server  LOG      ✓ Compiled in 111ms
+[00:39:59.155] Server  LOG      ✓ Compiled in 193ms
+[00:39:59.161] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./node_modules/.pnpm/next@16.0.10_react-dom@19.2.0_react@19.2.0__react@19.2.0/node_modules/next/dist/client/image-component.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:39:59.612] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:40:36.538] Browser WARN    Image with src "/hero-desktop.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:40:41.475] Server  ERROR    ⨯ Error: The default export is not a React Component in "/dashboard/page"
+[00:40:41.603] Server  ERROR    ⨯ Error: The default export is not a React Component in "/dashboard/page"
+[00:40:42.187] Browser ERROR   uncaughtError: Error: The default export is not a React Component in "/dashboard/page"
+[00:41:10.764] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:42:05.401] Server  LOG      ✓ Compiled in 137ms
+[00:42:24.693] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:43:02.844] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:43:08.315] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:43:40.655] Server  LOG      ✓ Compiled in 201ms
+[00:43:40.962] Server  ERROR    ⨯ Error: The default export is not a React Component in "/dashboard/invoices/layout"
+[00:43:41.174] Server  ERROR    ⨯ Error: The default export is not a React Component in "/dashboard/invoices/layout"
+[00:43:41.387] Server  ERROR    ⨯ Error: The default export is not a React Component in "/dashboard/invoices/layout"
+[00:43:41.542] Server  ERROR    ⨯ Error: The default export is not a React Component in "/dashboard/invoices/layout"
+[00:43:41.674] Server  ERROR    ⨯ Error: The default export is not a React Component in "/dashboard/invoices/layout"
+[00:43:41.796] Server  ERROR    ⨯ Error: The default export is not a React Component in "/dashboard/invoices/layout"
+[00:43:42.028] Server  ERROR    ⨯ Error: The default export is not a React Component in "/dashboard/invoices/layout"
+[00:43:42.149] Server  ERROR    ⨯ Error: The default export is not a React Component in "/dashboard/invoices/layout"
+[00:43:42.322] Browser ERROR   uncaughtError: Error: The default export is not a React Component in "/dashboard/invoices/layout"
+[00:43:57.986] Server  LOG      ✓ Compiled in 99ms
+[00:44:13.681] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:44:15.738] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:44:17.203] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:44:18.272] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:44:19.171] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:44:20.258] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:44:21.315] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:44:22.239] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:44:23.281] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:44:24.043] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:44:25.070] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:44:25.823] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:45:23.692] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:45:24.320] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:45:25.020] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:45:25.643] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:47:28.786] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:47:29.843] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:47:30.857] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:47:31.613] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:47:32.405] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:47:33.097] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:47:33.841] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:47:35.154] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:47:36.789] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:47:37.750] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:47:38.359] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:47:38.834] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:48:31.099] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:48:32.053] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:48:33.004] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:48:33.917] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:48:35.181] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:49:43.943] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:58:45.339] Server  LOG      ✓ Compiled in 116ms
+[00:58:45.717] Browser ERROR   ./app/ui/dashboard/nav-links.tsx:27:3
+Parsing ecmascript source code failed
+  25 | export default function NavLinks() {
+  26 |   const pathname = usePathname();
+> 27 |   import clsx from 'clsx';
+     |   ^^^^^^
+  28 |
+  29 |   return (
+  30 |     <>
+
+'import', and 'export' cannot be used outside of module code
+
+Import trace:
+  Server Component:
+    ./app/ui/dashboard/nav-links.tsx
+    ./app/ui/dashboard/sidenav.tsx
+    ./app/dashboard/layout.tsx
+[00:58:48.189] Server  ERROR    ⨯ ./app/ui/dashboard/nav-links.tsx:27:3
+Parsing ecmascript source code failed
+  25 | export default function NavLinks() {
+  26 |   const pathname = usePathname();
+> 27 |   import clsx from 'clsx';
+     |   ^^^^^^
+  28 |
+  29 |   return (
+  30 |     <>
+
+'import', and 'export' cannot be used outside of module code
+
+Import trace:
+  Server Component:
+    ./app/ui/dashboard/nav-links.tsx
+    ./app/ui/dashboard/sidenav.tsx
+    ./app/dashboard/layout.tsx
+
+
+[00:58:48.462] Browser ERROR   uncaughtError: Error: ./app/ui/dashboard/nav-links.tsx:27:3
+Parsing ecmascript source code failed
+  25 | export default function NavLinks() {
+  26 |   const pathname = usePathname();
+> 27 |   import clsx from 'clsx';
+     |   ^^^^^^
+  28 |
+  29 |   return (
+  30 |     <>
+
+'import', and 'export' cannot be used outside of module code
+
+Import trace:
+  Server Component:
+    ./app/ui/dashboard/nav-links.tsx
+    ./app/ui/dashboard/sidenav.tsx
+    ./app/dashboard/layout.tsx
+
+
+[00:58:48.698] Browser ERROR   ./app/ui/dashboard/nav-links.tsx:27:3
+Parsing ecmascript source code failed
+  25 | export default function NavLinks() {
+  26 |   const pathname = usePathname();
+> 27 |   import clsx from 'clsx';
+     |   ^^^^^^
+  28 |
+  29 |   return (
+  30 |     <>
+
+'import', and 'export' cannot be used outside of module code
+
+Import trace:
+  Server Component:
+    ./app/ui/dashboard/nav-links.tsx
+    ./app/ui/dashboard/sidenav.tsx
+    ./app/dashboard/layout.tsx
+[00:58:48.698] Browser ERROR   ./app/ui/dashboard/nav-links.tsx:27:3
+Parsing ecmascript source code failed
+  25 | export default function NavLinks() {
+  26 |   const pathname = usePathname();
+> 27 |   import clsx from 'clsx';
+     |   ^^^^^^
+  28 |
+  29 |   return (
+  30 |     <>
+
+'import', and 'export' cannot be used outside of module code
+
+Import trace:
+  Server Component:
+    ./app/ui/dashboard/nav-links.tsx
+    ./app/ui/dashboard/sidenav.tsx
+    ./app/dashboard/layout.tsx
+[00:58:48.698] Browser ERROR   ./app/ui/dashboard/nav-links.tsx:27:3
+Parsing ecmascript source code failed
+  25 | export default function NavLinks() {
+  26 |   const pathname = usePathname();
+> 27 |   import clsx from 'clsx';
+     |   ^^^^^^
+  28 |
+  29 |   return (
+  30 |     <>
+
+'import', and 'export' cannot be used outside of module code
+
+Import trace:
+  Server Component:
+    ./app/ui/dashboard/nav-links.tsx
+    ./app/ui/dashboard/sidenav.tsx
+    ./app/dashboard/layout.tsx
+[00:58:48.698] Browser ERROR   ./app/ui/dashboard/nav-links.tsx:27:3
+Parsing ecmascript source code failed
+  25 | export default function NavLinks() {
+  26 |   const pathname = usePathname();
+> 27 |   import clsx from 'clsx';
+     |   ^^^^^^
+  28 |
+  29 |   return (
+  30 |     <>
+
+'import', and 'export' cannot be used outside of module code
+
+Import trace:
+  Server Component:
+    ./app/ui/dashboard/nav-links.tsx
+    ./app/ui/dashboard/sidenav.tsx
+    ./app/dashboard/layout.tsx
+[00:58:56.274] Browser ERROR   ./app/ui/dashboard/nav-links.tsx:27:3
+Parsing ecmascript source code failed
+  25 | export default function NavLinks() {
+  26 |   const pathname = usePathname();
+> 27 |   import clsx from 'clsx';
+     |   ^^^^^^
+  28 |
+  29 |   return (
+  30 |     <>
+
+'import', and 'export' cannot be used outside of module code
+
+Import trace:
+  Server Component:
+    ./app/ui/dashboard/nav-links.tsx
+    ./app/ui/dashboard/sidenav.tsx
+    ./app/dashboard/layout.tsx
+[00:58:58.243] Browser ERROR   ./app/ui/dashboard/nav-links.tsx:27:3
+Parsing ecmascript source code failed
+  25 | export default function NavLinks() {
+  26 |   const pathname = usePathname();
+> 27 |   import clsx from 'clsx';
+     |   ^^^^^^
+  28 |
+  29 |   return (
+  30 |     <>
+
+'import', and 'export' cannot be used outside of module code
+
+Import trace:
+  Server Component:
+    ./app/ui/dashboard/nav-links.tsx
+    ./app/ui/dashboard/sidenav.tsx
+    ./app/dashboard/layout.tsx
+[00:59:00.189] Server  ERROR    ⨯ ./app/ui/dashboard/nav-links.tsx:27:3
+Parsing ecmascript source code failed
+  25 | export default function NavLinks() {
+  26 |   const pathname = usePathname();
+> 27 |   import clsx from 'clsx';
+     |   ^^^^^^
+  28 |
+  29 |   return (
+  30 |     <>
+
+'import', and 'export' cannot be used outside of module code
+
+Import trace:
+  Server Component:
+    ./app/ui/dashboard/nav-links.tsx
+    ./app/ui/dashboard/sidenav.tsx
+    ./app/dashboard/layout.tsx
+
+
+[00:59:00.303] Browser ERROR   uncaughtError: Error: ./app/ui/dashboard/nav-links.tsx:27:3
+Parsing ecmascript source code failed
+  25 | export default function NavLinks() {
+  26 |   const pathname = usePathname();
+> 27 |   import clsx from 'clsx';
+     |   ^^^^^^
+  28 |
+  29 |   return (
+  30 |     <>
+
+'import', and 'export' cannot be used outside of module code
+
+Import trace:
+  Server Component:
+    ./app/ui/dashboard/nav-links.tsx
+    ./app/ui/dashboard/sidenav.tsx
+    ./app/dashboard/layout.tsx
+
+
+[00:59:00.471] Browser ERROR   ./app/ui/dashboard/nav-links.tsx:27:3
+Parsing ecmascript source code failed
+  25 | export default function NavLinks() {
+  26 |   const pathname = usePathname();
+> 27 |   import clsx from 'clsx';
+     |   ^^^^^^
+  28 |
+  29 |   return (
+  30 |     <>
+
+'import', and 'export' cannot be used outside of module code
+
+Import trace:
+  Server Component:
+    ./app/ui/dashboard/nav-links.tsx
+    ./app/ui/dashboard/sidenav.tsx
+    ./app/dashboard/layout.tsx
+[00:59:00.471] Browser ERROR   ./app/ui/dashboard/nav-links.tsx:27:3
+Parsing ecmascript source code failed
+  25 | export default function NavLinks() {
+  26 |   const pathname = usePathname();
+> 27 |   import clsx from 'clsx';
+     |   ^^^^^^
+  28 |
+  29 |   return (
+  30 |     <>
+
+'import', and 'export' cannot be used outside of module code
+
+Import trace:
+  Server Component:
+    ./app/ui/dashboard/nav-links.tsx
+    ./app/ui/dashboard/sidenav.tsx
+    ./app/dashboard/layout.tsx
+[00:59:00.471] Browser ERROR   ./app/ui/dashboard/nav-links.tsx:27:3
+Parsing ecmascript source code failed
+  25 | export default function NavLinks() {
+  26 |   const pathname = usePathname();
+> 27 |   import clsx from 'clsx';
+     |   ^^^^^^
+  28 |
+  29 |   return (
+  30 |     <>
+
+'import', and 'export' cannot be used outside of module code
+
+Import trace:
+  Server Component:
+    ./app/ui/dashboard/nav-links.tsx
+    ./app/ui/dashboard/sidenav.tsx
+    ./app/dashboard/layout.tsx
+[00:59:00.471] Browser ERROR   ./app/ui/dashboard/nav-links.tsx:27:3
+Parsing ecmascript source code failed
+  25 | export default function NavLinks() {
+  26 |   const pathname = usePathname();
+> 27 |   import clsx from 'clsx';
+     |   ^^^^^^
+  28 |
+  29 |   return (
+  30 |     <>
+
+'import', and 'export' cannot be used outside of module code
+
+Import trace:
+  Server Component:
+    ./app/ui/dashboard/nav-links.tsx
+    ./app/ui/dashboard/sidenav.tsx
+    ./app/dashboard/layout.tsx
+[00:59:05.122] Server  LOG      ✓ Compiled in 78ms
+[00:59:05.445] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:59:18.752] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:59:20.725] Server  LOG      ✓ Compiled in 68ms
+[00:59:21.276] Browser ERROR   ./app/ui/dashboard/nav-links.tsx:27:3
+Parsing ecmascript source code failed
+  25 | export default function NavLinks() {
+  26 |   const pathname = usePathname();
+> 27 |   import clsx from 'clsx';
+     |   ^^^^^^
+  28 |
+  29 |    
+  30 |
+
+'import', and 'export' cannot be used outside of module code
+
+Import trace:
+  Server Component:
+    ./app/ui/dashboard/nav-links.tsx
+    ./app/ui/dashboard/sidenav.tsx
+    ./app/dashboard/layout.tsx
+[01:01:10.976] Server  LOG      ✓ Compiled in 66ms
+[01:01:11.259] Browser ERROR   ./app/ui/dashboard/nav-links.tsx:44:11
+Parsing ecmascript source code failed
+  42 |                 'bg-sky-100 text-blue-600': pathname === link.href,
+  43 |               },
+> 44 |           >
+     |           ^
+  45 |             <LinkIcon className="w-6" />
+  46 |             <p className="hidden md:block">{link.name}</p>
+  47 |           </Link>
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./app/ui/dashboard/nav-links.tsx
+    ./app/ui/dashboard/sidenav.tsx
+    ./app/dashboard/layout.tsx
+[01:01:26.390] Server  ERROR    ⨯ ./app/ui/dashboard/nav-links.tsx:44:11
+Parsing ecmascript source code failed
+  42 |                 'bg-sky-100 text-blue-600': pathname === link.href,
+  43 |               },
+> 44 |           >
+     |           ^
+  45 |             <LinkIcon className="w-6" />
+  46 |             <p className="hidden md:block">{link.name}</p>
+  47 |           </Link>
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./app/ui/dashboard/nav-links.tsx
+    ./app/ui/dashboard/sidenav.tsx
+    ./app/dashboard/layout.tsx
+
+
+[01:01:26.584] Browser ERROR   uncaughtError: Error: ./app/ui/dashboard/nav-links.tsx:44:11
+Parsing ecmascript source code failed
+  42 |                 'bg-sky-100 text-blue-600': pathname === link.href,
+  43 |               },
+> 44 |           >
+     |           ^
+  45 |             <LinkIcon className="w-6" />
+  46 |             <p className="hidden md:block">{link.name}</p>
+  47 |           </Link>
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./app/ui/dashboard/nav-links.tsx
+    ./app/ui/dashboard/sidenav.tsx
+    ./app/dashboard/layout.tsx
+
+
+[01:01:26.772] Browser ERROR   ./app/ui/dashboard/nav-links.tsx:44:11
+Parsing ecmascript source code failed
+  42 |                 'bg-sky-100 text-blue-600': pathname === link.href,
+  43 |               },
+> 44 |           >
+     |           ^
+  45 |             <LinkIcon className="w-6" />
+  46 |             <p className="hidden md:block">{link.name}</p>
+  47 |           </Link>
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./app/ui/dashboard/nav-links.tsx
+    ./app/ui/dashboard/sidenav.tsx
+    ./app/dashboard/layout.tsx
+[01:01:26.772] Browser ERROR   ./app/ui/dashboard/nav-links.tsx:44:11
+Parsing ecmascript source code failed
+  42 |                 'bg-sky-100 text-blue-600': pathname === link.href,
+  43 |               },
+> 44 |           >
+     |           ^
+  45 |             <LinkIcon className="w-6" />
+  46 |             <p className="hidden md:block">{link.name}</p>
+  47 |           </Link>
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./app/ui/dashboard/nav-links.tsx
+    ./app/ui/dashboard/sidenav.tsx
+    ./app/dashboard/layout.tsx
+[01:01:26.772] Browser ERROR   ./app/ui/dashboard/nav-links.tsx:44:11
+Parsing ecmascript source code failed
+  42 |                 'bg-sky-100 text-blue-600': pathname === link.href,
+  43 |               },
+> 44 |           >
+     |           ^
+  45 |             <LinkIcon className="w-6" />
+  46 |             <p className="hidden md:block">{link.name}</p>
+  47 |           </Link>
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./app/ui/dashboard/nav-links.tsx
+    ./app/ui/dashboard/sidenav.tsx
+    ./app/dashboard/layout.tsx
+[01:01:26.772] Browser ERROR   ./app/ui/dashboard/nav-links.tsx:44:11
+Parsing ecmascript source code failed
+  42 |                 'bg-sky-100 text-blue-600': pathname === link.href,
+  43 |               },
+> 44 |           >
+     |           ^
+  45 |             <LinkIcon className="w-6" />
+  46 |             <p className="hidden md:block">{link.name}</p>
+  47 |           </Link>
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./app/ui/dashboard/nav-links.tsx
+    ./app/ui/dashboard/sidenav.tsx
+    ./app/dashboard/layout.tsx
+[01:01:40.680] Server  LOG      ✓ Compiled in 104ms
+[01:01:41.041] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold

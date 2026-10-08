@@ -1,0 +1,34 @@
+/* [next]/internal/font/google/lusitana_99639ffe.module.css [app-client] (css) */
+@font-face {
+  font-family: Lusitana;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../media/568219ae74a4794d-s.p.ae51889f.woff2") format("woff2");
+  unicode-range: U+??, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: Lusitana;
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("../media/f179d0d12a27c502-s.p.2481f41b.woff2") format("woff2");
+  unicode-range: U+??, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: Lusitana Fallback;
+  src: local(Times New Roman);
+  ascent-override: 92.03%;
+  descent-override: 32.83%;
+  line-gap-override: 0.0%;
+  size-adjust: 103.88%;
+}
+
+.lusitana_99639ffe-module__7_Xs5q__className {
+  font-family: Lusitana, Lusitana Fallback;
+  font-style: normal;
+}
+
+/*# sourceMappingURL=%5Bnext%5D_internal_font_google_lusitana_99639ffe_module_css_bad6b30c._.single.css.map*/
